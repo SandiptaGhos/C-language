@@ -1,2 +1,0 @@
-# sandycoding
-Coding
